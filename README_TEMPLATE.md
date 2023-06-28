@@ -1,10 +1,8 @@
->
+# Week 1-1
 
-<div width="100%" align="center">
-  <h1>🚀 Week 1-1</h1>
-  <img width='50%' src='https://static.wanted.co.kr/images/events/2909/b35918a6.jpg' alt='원티드 프리온보딩 프론트엔드 인턴십 배너 사진' />
-  <p>Todo 선발과제 Best Practice 제작하기</p>
-</div>
+> 동료학습을 통해서 팀에서 생각한 원티드 프리온보딩 프론트엔드 인턴십 [선발 과제](https://github.com/walking-sunset/selection-task)의 Best Pratice를 만들고 제출해주세요
+
+![원티드 프리온보딩 프론트엔드 인턴십 배너 사진](https://static.wanted.co.kr/images/events/2909/b35918a6.jpg)
 
 ## 기본 사항
 
